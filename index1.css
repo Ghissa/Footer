@@ -1,0 +1,46 @@
+.footer-container {
+    width: 100%;
+    padding: 50px 0px;
+    background-image: url(./img/wavef.png);
+    background-size: cover;
+    background-color: #fff;
+    
+}
+
+.footer__section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    max-width: 1200px;
+    margin: auto;
+    margin-top: 100px;
+}
+
+.footer__title {}
+
+.footer__description {}
+
+
+.buttom-contact {}
+
+.icon-container {}
+
+.icon-container__image {}
+
+.page__options {}
+
+
+
+
+.derechos {
+    text-align: left;
+    position: absolute;
+
+}
+
+.link-pages {
+    text-align: right;
+
+    position: relative;
+
+}
